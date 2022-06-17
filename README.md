@@ -5,8 +5,6 @@ It is also possible to get some standard statistics from a specific night. This 
 You can start the notebook from the command line using "panel serve --show Blaauw_Dashboard_Kapteyn.ipynb". This will automatically open a new tab in your browser and then you can interact with the program.
 
 TODO:
-- Make sure it is accessible to colourblind people.
-- When users remove the filename column it gives problem. Fix this and check if more columns have this problem.
 - Present more observation information, such as airmass and seeing, for specific nights and maybe over time
 - Allow connection to Kapteyn servers (hopefully)
 - Probably much more
